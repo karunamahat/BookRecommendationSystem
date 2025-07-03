@@ -14,4 +14,4 @@ Source: [Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/b
 - Python
 - Pandas, NumPy : Data manipulation
 - Scikit-learn : Similarity calculations (cosine similarity)
-- Jupyter Notebook – For prototyping and experimentation
+- Jupyter Notebook : For experimentation
